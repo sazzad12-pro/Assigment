@@ -8,3 +8,16 @@
 section {
   display: flex;
 }
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 60%;
+}
+.cen-ter {
+  text-align: center;
+  font-size: 40px;
+}
+#orange {
+  color: rgb(233, 12, 12);
+}
