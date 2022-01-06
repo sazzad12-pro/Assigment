@@ -5,6 +5,13 @@
   font-size: 50px;
   font-family: cursive;
 }
+.link-button {
+  text-decoration: none;
+  background-color: orange;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 5px;
+}
 section {
   display: flex;
 }
