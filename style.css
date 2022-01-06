@@ -21,3 +21,14 @@ section {
 #orange {
   color: rgb(233, 12, 12);
 }
+.mms {
+  width: 400px;
+  height: 300px;
+  background-color: moccasin;
+  margin: 5px 5px;
+  border-radius: 5px;
+}
+.mms img {
+  width: 150px;
+  height: 150px;
+}
