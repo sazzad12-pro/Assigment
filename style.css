@@ -1,3 +1,10 @@
 .green {
   color: chartreuse;
 }
+.ok {
+  font-size: 50px;
+  font-family: cursive;
+}
+section {
+  display: flex;
+}
